@@ -13,7 +13,7 @@ body {
 
 
 .main {
-    background-image: url("assests/images/img5.jpg");
+    background-image: url("assets/images/img5.jpg");
     background-position: center center;
     height: 70vh;
     position: relative;
@@ -107,7 +107,7 @@ nav button {
     background-color: rgba(102, 102, 102, 0.5);
     border: none;
     border-radius: 4px;
-    font-size: 16px; */
+    font-size: 16px;
     border: 1px solid rgba(246, 238, 238, 0.3);
     color: white;
 
@@ -221,10 +221,8 @@ section.first > div :nth-child(1) {
     
 }
 
-section.first >div :nth-child(2) {
+/* section.first > div :nth-child(2) {
     /* font-size: 24px; */
-    
-}
 
 section.first >.inmy2 :nth-child(1) {
     width: 450px;
@@ -322,7 +320,7 @@ footer {
 
     .secImg video {
         width: 250px;
-        right: 15                           px;
+        right: 15px;
         height: 200px;
         position: absolute;
         top: 51px;
